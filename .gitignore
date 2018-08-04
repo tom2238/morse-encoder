@@ -1,0 +1,6 @@
+ver/
+dist/
+tool/
+*.o
+*.wav
+*.txt
